@@ -153,7 +153,7 @@ export class GuiModel {
                     {
                     "type": "newButton", "name": "NewGroup", "icon": "fa-weixin", "color": "green", "form": {
                     "form": "GroupForm" },
-                        "icon": "fa-weixin", "color": "wisteria", "search": true, "url": "/group", "form": {
+                        "icon2": "fa-weixin", "color1": "wisteria", "search": true, "url": "/group", "form1": {
                         } },
                     ],
                 },
